@@ -14,3 +14,4 @@ for item in basket:
         total += sum(item)
 
 print (total)
+
